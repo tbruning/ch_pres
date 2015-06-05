@@ -43,7 +43,7 @@ knit        : slidify::knit2slides
 ---
 ### For Example
 #### Both Charts
-![Your Work]
+![Your Work](./assets/img/plot3.png)
 
 ---
 ### For Example
