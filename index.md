@@ -74,6 +74,5 @@ Whether you do, or not, someone else looking at your data will.
 
 ---
 
-<div style='text-align: center;'>
-    <img height='560' src='.assets/ss_errors.png' />
-</div>
+
+    ![Market Watch](./assets/ss_errors.png)
