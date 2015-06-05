@@ -74,3 +74,4 @@ Whether you do, or not, someone else looking at your data will.
 
 ---
 
+<img src="assets/img/ss_errors.png">
