@@ -43,11 +43,12 @@ knit        : slidify::knit2slides
 ---
 ### For Example
 #### Both Charts
-![Your Work](./assets/img/plot3.png)
+![Your Work]
+
 ---
 ### For Example
-#### Both Charts
-![Your Work](./assets/img/plot3.png)
+#### Your chart, with documentation
+![Your Work](./assets/img/plot4.png)
 
 ---
 ### Examples of faulty data analysis
