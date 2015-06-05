@@ -32,6 +32,8 @@ knit        : slidify::knit2slides
 ---
 ## Examples of faulty data analysis
 
+![Market Watch](./assets/img/ss_errors.png)
+
  [Colbert Report](http://on.cc.com/1rKue88 "Colbert Report")
  
 
