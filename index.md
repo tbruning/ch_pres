@@ -7,7 +7,7 @@ framework   : revealjs  # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow     # 
 widgets     : []            # {mathjax, quiz, bootstrap}
-mode        : selfcontained # {standalone, draft}
+mode        : standalone # {standalone, draft}
 knit        : slidify::knit2slides
 ---
    
@@ -74,4 +74,4 @@ Whether you do, or not, someone else looking at your data will.
 
 ---
 
-![Market Watch](./assets/img/ss_errors.png)
+![Market Watch](assets/img/ss_errors.png)
