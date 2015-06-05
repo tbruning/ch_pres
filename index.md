@@ -31,6 +31,10 @@ knit        : slidify::knit2slides
     A former manager of mine said "The only people who don't make mistakes are those who don't do anything"
 
 ---
+### For Example
+![Your Work](./assets/img/plot1.png)
+
+---
 ## Examples of faulty data analysis
 
 ![Market Watch](./assets/img/ss_errors.png)
