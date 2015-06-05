@@ -74,4 +74,6 @@ Whether you do, or not, someone else looking at your data will.
 
 ---
 
-<img src="assets/img/ss_errors.png">
+<div style='text-align: center;'>
+    <img height='560' src='.assets/ss_errors.png' />
+</div>
