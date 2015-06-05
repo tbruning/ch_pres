@@ -74,4 +74,4 @@ Whether you do, or not, someone else looking at your data will.
 
 ---
 
-![Market Watch](assets/img/ss_errors.png)
+![Market Watch](https://github.com/tbruning/ch_pres/blob/gh-pages/assets/img/ss_errors.png)
