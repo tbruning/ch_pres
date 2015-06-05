@@ -36,6 +36,16 @@ knit        : slidify::knit2slides
 ![Your Work](./assets/img/plot1.png)
 
 ---
+### For Example
+#### Someone else's Work
+![Your Work](./assets/img/plot2.png)
+
+---
+### For Example
+#### Both Charts
+![Your Work](./assets/img/plot3.png)
+
+---
 ## Examples of faulty data analysis
 
 ![Market Watch](./assets/img/ss_errors.png)
