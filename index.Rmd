@@ -75,4 +75,4 @@ Whether you do, or not, someone else looking at your data will.
 ---
 
 
-    ![Market Watch](./assets/ss_errors.png)
+    ![Market Watch](assets/ss_errors.png)
