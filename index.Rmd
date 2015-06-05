@@ -14,7 +14,7 @@ knit        : slidify::knit2slides
 # Reproducibility  
 
 ---
-## Why Reproducibility
+### Why Reproducibility
 
 - <span style="color:green; font-weight:bold">YOU</span> are responsible for your work
 - Replication is often times impossible
