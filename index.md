@@ -54,7 +54,7 @@ knit        : slidify::knit2slides
  
 
 ---
-## What To Document
+### What To Document
 
 1. Data Source, including date
 
@@ -65,7 +65,7 @@ knit        : slidify::knit2slides
 3. Documentation of code and data
 
 ---
-## Challenge Results
+### Challenge Results
 
 Whether you do, or not, someone else looking at your data will.
 
@@ -75,11 +75,11 @@ Whether you do, or not, someone else looking at your data will.
 
   - The data source
 
-  - The processing you did
+  - The processing <span style="color:green; font-weight:bold">you</span> did
 
-  - Your analysis
+  - <span style="color:green; font-weight:bold">Your</span> analysis
 
-  - Your conclusions 
+  - <span style="color:green; font-weight:bold">Your</span> conclusions 
 
 ---
 ## Challenge Results (cont)
