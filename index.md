@@ -32,6 +32,7 @@ knit        : slidify::knit2slides
 
 ---
 ### For Example
+#### Your Work
 ![Your Work](./assets/img/plot1.png)
 
 ---
