@@ -44,9 +44,13 @@ knit        : slidify::knit2slides
 ### For Example
 #### Both Charts
 ![Your Work](./assets/img/plot3.png)
+---
+### For Example
+#### Both Charts
+![Your Work](./assets/img/plot3.png)
 
 ---
-## Examples of faulty data analysis
+### Examples of faulty data analysis
 
 ![Market Watch](./assets/img/ss_errors.png)
 
@@ -67,9 +71,9 @@ knit        : slidify::knit2slides
 ---
 ### Challenge Results
 
-Whether you do, or not, someone else looking at your data will.
+Whether <span style="color:green; font-weight:bold">you</span> do, or not, someone else looking at <span style="color:green; font-weight:bold">your</span> data will.
 
-- Challenge your steps
+- Challenge <span style="color:green; font-weight:bold">your</span> steps
 
   - <span style="color:green; font-weight:bold">Your</span> initial question
 
